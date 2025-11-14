@@ -1,0 +1,27 @@
+user_id,first_name,last_name,email,phone,signup_date,city,loyalty_tier
+U1001,Emma,Reed,emma.reed@example.com,555-0100,2023-01-12,Seattle,Gold
+U1002,Liam,Parker,liam.parker@example.com,555-0101,2023-02-05,Denver,Silver
+U1003,Olivia,Collins,olivia.collins@example.com,555-0102,2023-02-22,Chicago,Bronze
+U1004,Noah,Gibbs,noah.gibbs@example.com,555-0103,2023-03-03,Portland,Gold
+U1005,Ava,Santiago,ava.santiago@example.com,555-0104,2023-03-18,Austin,Silver
+U1006,Elijah,Morris,elijah.morris@example.com,555-0105,2023-03-29,San Diego,Bronze
+U1007,Sophia,Lawson,sophia.lawson@example.com,555-0106,2023-04-10,Seattle,Platinum
+U1008,James,Kim,james.kim@example.com,555-0107,2023-04-21,Boston,Gold
+U1009,Isabella,Jenkins,isabella.jenkins@example.com,555-0108,2023-05-02,Atlanta,Silver
+U1010,Lucas,Steele,lucas.steele@example.com,555-0109,2023-05-15,Denver,Bronze
+U1011,Mia,Watkins,mia.watkins@example.com,555-0110,2023-05-30,Chicago,Gold
+U1012,Mason,Hunt,mason.hunt@example.com,555-0111,2023-06-08,New York,Silver
+U1013,Charlotte,Flynn,charlotte.flynn@example.com,555-0112,2023-06-19,Boston,Gold
+U1014,Ethan,Bauer,ethan.bauer@example.com,555-0113,2023-07-04,Portland,Bronze
+U1015,Amelia,Vega,amelia.vega@example.com,555-0114,2023-07-16,Austin,Gold
+U1016,Logan,York,logan.york@example.com,555-0115,2023-07-27,San Diego,Silver
+U1017,Harper,Nguyen,harper.nguyen@example.com,555-0116,2023-08-08,Chicago,Bronze
+U1018,Jackson,Liu,jackson.liu@example.com,555-0117,2023-08-20,Seattle,Gold
+U1019,Evelyn,Burke,evelyn.burke@example.com,555-0118,2023-09-01,New York,Platinum
+U1020,Henry,Patel,henry.patel@example.com,555-0119,2023-09-15,Denver,Silver
+U1021,Scarlett,Ford,scarlett.ford@example.com,555-0120,2023-09-28,Portland,Bronze
+U1022,Wyatt,Gonzalez,wyatt.gonzalez@example.com,555-0121,2023-10-10,Atlanta,Silver
+U1023,Grace,Ramirez,grace.ramirez@example.com,555-0122,2023-10-24,Chicago,Gold
+U1024,Samuel,Ortiz,samuel.ortiz@example.com,555-0123,2023-11-05,Austin,Bronze
+U1025,Victoria,Hayes,victoria.hayes@example.com,555-0124,2023-11-12,Seattle,Gold
+

@@ -1,0 +1,22 @@
+product_id,name,category,price,cost,stock_qty,is_active
+P2001,Coastal Cotton Tee,Apparel,24.00,10.00,320,true
+P2002,Evergreen Hoodie,Apparel,58.00,28.00,150,true
+P2003,Trailblazer Jacket,Apparel,96.00,55.00,80,true
+P2004,Summit Running Shoes,Footwear,110.00,62.00,140,true
+P2005,Citywalk Sneakers,Footwear,78.00,40.00,200,true
+P2006,Sunset Slip-Ons,Footwear,52.00,25.00,90,false
+P2007,Ridgeway Backpack,Accessories,84.00,38.00,210,true
+P2008,Metro Crossbody Bag,Accessories,68.00,30.00,175,true
+P2009,Navigator Duffel,Accessories,120.00,70.00,65,true
+P2010,Cascade Water Bottle,Home,32.00,8.00,500,true
+P2011,Harbor Coffee Mug,Home,18.00,4.00,450,true
+P2012,Haven Throw Blanket,Home,54.00,18.00,220,true
+P2013,Glow Scented Candle,Home,22.00,6.00,390,true
+P2014,Terra Yoga Mat,Fitness,48.00,16.00,260,true
+P2015,Arc Resistance Band,Fitness,22.00,5.00,430,true
+P2016,Tempo Wireless Earbuds,Electronics,128.00,70.00,130,true
+P2017,Lumen Desk Lamp,Electronics,74.00,32.00,160,true
+P2018,PixelFit Smartwatch,Electronics,198.00,110.00,95,true
+P2019,Aero Portable Charger,Electronics,44.00,18.00,300,true
+P2020,Clarity Noise-Cancel Headphones,Electronics,248.00,140.00,60,true
+

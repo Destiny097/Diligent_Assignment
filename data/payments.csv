@@ -1,0 +1,26 @@
+payment_id,order_id,payment_date,amount,payment_method,provider,status
+PM5001,O3001,2023-04-02,142.47,Credit Card,Visa,Captured
+PM5002,O3002,2023-04-05,58.00,PayPal,PayPal,Captured
+PM5003,O3003,2023-04-07,212.35,Credit Card,Mastercard,Captured
+PM5004,O3004,2023-04-11,84.00,Digital Wallet,Apple Pay,Captured
+PM5005,O3005,2023-04-13,176.54,Credit Card,Visa,Captured
+PM5006,O3006,2023-04-15,32.00,Gift Card,StoreCredit,Authorized
+PM5007,O3007,2023-04-17,248.22,Credit Card,Amex,Captured
+PM5008,O3008,2023-04-20,96.00,PayPal,PayPal,Captured
+PM5009,O3009,2023-04-22,134.65,Credit Card,Visa,Captured
+PM5010,O3010,2023-04-24,74.00,Digital Wallet,Google Pay,Captured
+PM5011,O3011,2023-04-27,220.18,Credit Card,Mastercard,Captured
+PM5012,O3012,2023-04-29,168.42,Buy Now Pay Later,Affirm,Authorized
+PM5013,O3013,2023-05-02,110.00,Credit Card,Visa,Pending
+PM5014,O3014,2023-05-05,92.00,Digital Wallet,Apple Pay,Captured
+PM5015,O3015,2023-05-07,305.76,Credit Card,Amex,Captured
+PM5016,O3016,2023-05-09,126.00,PayPal,PayPal,Captured
+PM5017,O3017,2023-05-12,88.00,Credit Card,Mastercard,Pending
+PM5018,O3018,2023-05-15,190.44,Credit Card,Visa,Captured
+PM5019,O3019,2023-05-17,74.00,Gift Card,StoreCredit,Captured
+PM5020,O3020,2023-05-20,44.00,Digital Wallet,Google Pay,Captured
+PM5021,O3021,2023-05-22,158.30,Credit Card,Visa,Captured
+PM5022,O3022,2023-05-24,52.00,PayPal,PayPal,Pending
+PM5023,O3023,2023-05-26,216.83,Credit Card,Mastercard,Captured
+PM5024,O3025,2023-05-30,268.00,Credit Card,Amex,Captured
+
